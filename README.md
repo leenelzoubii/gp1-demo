@@ -1,1 +1,1 @@
-# gp-demo
+# CI/CD Demo for Cloud Computing 
